@@ -5,7 +5,7 @@ author: "Gal"
 ---
 
 
-If you have internet access and a general interest in AI, you’ve stumbled upon the recent story of Amazon trying to build a machine learning algorithm (or the fancy term “AI”) to [automate its hiring process](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G), only to ditch it upon discovering that it penalized resumes that include the term “women’s” in it (e.g candidates who went to all women’s colleges).
+If you have internet access and a general interest in AI, you’ve stumbled upon the recent story of Amazon trying to build a machine learning algorithm (or the fancy term “AI”) to [automate its hiring process](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G){:target="_blank"}, only to ditch it upon discovering that it penalized resumes that include the term “women’s” in it (e.g candidates who went to all women’s colleges).
 <center>
 https://twitter.com/mathbabedotorg/status/1050004919716106240
 </center>
@@ -14,7 +14,7 @@ As with any seasonal “AI Gone Bad” news-story, it’s imperative to first bu
 
 Keeping in mind the context is crucial here. By using its own hiring records as the training data, Amazon wasn’t building an AI to learn how to hire successful candidates; all it could do, by definition, was build an AI that mimics it’s current hiring practices. This seems trivial, but this point is overlooked by many people. And this is where context comes in: Do we have any reason to believe that Amazon’s hiring practices are not biased?
 
-It has long been established that as humans, our decision making is ridden with biases of all sorts. Specifically in the context of hiring in the tech industry, the common one is known as [“confirmation bias”](https://en.wikipedia.org/wiki/Confirmation_bias). Early on we establish a few prototypes of success, and we tend to look for other people who fit these prototypes. When every “hire” is a costly investment, **tech companies are tempted to put much more emphasis on “exploiting” their current understanding of what makes successful candidates than “exploring”** (giving chances to other people, who don’t look like the prototypical successful candidate, to prove their skill).
+It has long been established that as humans, our decision making is ridden with biases of all sorts. Specifically in the context of hiring in the tech industry, the common one is known as [“confirmation bias”](https://en.wikipedia.org/wiki/Confirmation_bias){:target="_blank"}. Early on we establish a few prototypes of success, and we tend to look for other people who fit these prototypes. When every “hire” is a costly investment, **tech companies are tempted to put much more emphasis on “exploiting” their current understanding of what makes successful candidates than “exploring”** (giving chances to other people, who don’t look like the prototypical successful candidate, to prove their skill).
 
 
 Okay, we’ve established that ML is a black-box that will tend to perpetuate our own biases. What good could possibly come from this?
