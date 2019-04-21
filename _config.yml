@@ -1,0 +1,57 @@
+# Site settings
+title:          Gal Yona
+description:    "My personal homepage"
+baseurl:            "website"
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:
+  name:         Gal Yona
+  url:          https://galyona.github.io
+  email:        gal.yona@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+  - jekyll/scholar
+
+# Permalinks
+paginate_path: "/blog/page:num/"
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# scholar settings
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
