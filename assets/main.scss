@@ -10,4 +10,10 @@
     border-radius: 50%;
 }
 
+@media (max-width:629px) {
+  img#optionalstuff {
+    display: none;
+  }
+}
+
 @import 'tale';
