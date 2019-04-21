@@ -21,4 +21,4 @@ title: "Gal Yona"
 - Machine learning at [Cellebrite](https://www.cellebrite.com/en/home/)
 - BSc in Mathematics and Economics, [Hebrew University](https://new.huji.ac.il/)
 
-*contact*: gal.yona@gmail.com 
+*contact*: gal.yona@gmail.com
