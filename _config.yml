@@ -1,7 +1,7 @@
 # Site settings
 title:          Gal Yona
 description:    "My personal homepage"
-baseurl:            "website"
+baseurl:            "/website"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
