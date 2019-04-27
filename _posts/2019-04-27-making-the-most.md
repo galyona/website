@@ -43,7 +43,7 @@ The problem with steps 1-3 is that with very high probability, whatever you trul
 The resolution, perhaps, is that we need a new definition of *knowledge*. What does it mean to know something in the 21st century? I like the definition suggested in the title of [this](https://prostheticknowledge.tumblr.com) blog.
 
 <center>
-![prosthetic knowledge]({{ site.url }}/imgs/posts/prosthetic.png)
+![prosthetic knowledge]({{ site.url }}/assets/apple-touch-icon.png)
 </center>
 
 If you think about it, this is nothing new. In fact, software developers practice this type of knowledge literally all the time. For example, I never remember the exact syntax for saving and loading a Python pickle object, even though it's something I do very often. However, what I *do* remember is that if I type in Google the query "Python load pickle", then the fourth result is a Stack Overflow whose top answer has exactly the code-snippet that I need. Then, do I *know* how to load a Python pickle? The answer is of course (albeit under a slightly extended definition of knowledge). In fact, this is exactly what made Stack Overflow such a hugely popular website.
