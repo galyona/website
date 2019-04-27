@@ -3,11 +3,10 @@ layout: default
 permalink: /talks/
 ---
 
-**Adversarial Examples and Adversarial Learning**.
-Gal Yona.
-*DataTalks TLV (Hebrew)*
+**Adversarial Examples and Adversarial Learning**  
+Gal Yona.  
+*DataTalks TLV (Hebrew)*  
 [[video]](https://www.youtube.com/watch?v=Z9D87D_zkOA){:target="_blank"}
-
 
 **Fairness in Machine Learning**  
 Gal Yona and Yafit Lev-Aretz.   
