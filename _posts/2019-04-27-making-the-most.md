@@ -9,6 +9,8 @@ As we all know, the internet is an incredible body of knowledge. To put things i
 
 I have organized my thoughts on this issue in the form of a 4-part “roadmap” towards achieving this goal. This isn’t to say that this is a recipe that anyone else should follow; it is simply my way of creating structure in the insights I've gathered on this topic.
 
+
+<br>
 ### #1: Exposure.
 
 The first step towards unlocking this potential is of becoming aware of things that are actually “worth knowing”. If you think about it, this isn’t a simple task. This object which we refer to as “the internet” is in fact nothing more than a huge graph (the nodes being the webpages and the edges being the links between them). It is safe to assume that what counts as interesting to *you* is a not only a very small fraction of this graph, but also a very scattered fraction.
@@ -25,26 +27,35 @@ Applying these ideas in my case, yes, I could -- in theory --  get rid of social
 
 The solution in my case had a "make lemonade out of lemons" flair to it. Rather than attempt to get rid of social media altogether (throwing away the good stuff with the bad stuff), find a way to use an appropriate form of social media to fit *your* needs. In my case, this amounted to using Twitter, and actively maintaining a list of people whose thoughts, links and musings I really want to follow.
 
+
+<br>
+
 ### #2: Curation.
 
 At this point, I found myself with a feed full interesting content. Is that it? As I quickly realized, the answer was no. I had *access* to the content I wanted, but I wasn't actually *consuming* it. Confusing, yes, but to be expected, if you give it some thought. One thing social media platforms all have in common is that they end up promoting superficial interaction. You are rewarded for "Likes" and comments, maybe viewing a video, but not for anything that ends up navigating you outside social media (such as actually opening the link and *reading* the article). The platforms aim to maximize user's **engagement**, and as ex-Googler [Tristan Harris cleverly argues](https://www.youtube.com/watch?v=ZSNtj6aBKKY), they are often *alarmingly* good at it. This leads to a conflict of interest, with users often spending significantly more time than they would have desired scrolling through endless feeds. (In fact, this is a can of worms, with numerous other problematic effects. One that I find especially alarming are Youtube's [terrible recommendations](https://www.nytimes.com/2019/02/19/technology/youtube-conspiracy-stars.html)).
 
 The solution that I found was practical and simple: keep using Twitter to find content, but once I found something worthwhile - **put it aside**. "Aside" is the important point here, and means *outside social media*. I keep a Google doc with things I want to read, and sometimes send them to my Kindle to maximize the probability that I would read them undistracted.
 
+
+<br>
 ### #3: Knowledge Acquisition.
 
 Having a "reading list" distant from social media proved to be insufficient for me. The incentives promoting superficial interaction (just get through "as many" of the items as quickly as possible) were still there. Now, when I sit down to read something I actively practice going beyond a superficial interaction: acquiring knowledge, insights. This can take many different shapes and forms. One thing that works for me is to practice **distillation**. Can I tell another person about it? Can I write a few lines about what I understood?
 
-
+<br>
 ### #4: Knowledge Persistence.
 
 The problem with steps 1-3 is that with very high probability, whatever you truly know *today* you will forget in a year from now. This seems discouraging, and to potentially undermine the very thing we're doing here: what's the point of knowing something, if this knowledge will likely not last?
 
-The resolution, perhaps, is that we need a new definition of *knowledge*. What does it mean to know something in the 21st century? I like the definition suggested in the title of [this](https://prostheticknowledge.tumblr.com) blog.
+The resolution, perhaps, is that we need a new definition of *knowledge*. What does it mean to know something in the 21st century? I like the definition of **prosthetic knowledge** suggested in the title of [this](https://prostheticknowledge.tumblr.com) blog:
+
+<br>
 
 <center>
-![prosthetic knowledge]({{ site.url }}/assets/apple-touch-icon.png)
-</center>
+n. Information that a person does not know, but can access as needed using technology.
+</center>  
+
+<br>
 
 If you think about it, this is nothing new. In fact, software developers practice this type of knowledge literally all the time. For example, I never remember the exact syntax for saving and loading a Python pickle object, even though it's something I do very often. However, what I *do* remember is that if I type in Google the query "Python load pickle", then the fourth result is a Stack Overflow whose top answer has exactly the code-snippet that I need. Then, do I *know* how to load a Python pickle? The answer is of course (albeit under a slightly extended definition of knowledge). In fact, this is exactly what made Stack Overflow such a hugely popular website.
 
