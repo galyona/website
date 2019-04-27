@@ -7,7 +7,8 @@ author: "Gal"
 
 If you have internet access and a general interest in AI, you’ve stumbled upon the recent story of Amazon trying to build a machine learning algorithm (or the fancy term “AI”) to [automate its hiring process](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G){:target="_blank"}, only to ditch it upon discovering that it penalized resumes that include the term “women’s” in it (e.g candidates who went to all women’s colleges).
 <center>
-https://twitter.com/mathbabedotorg/status/1050004919716106240
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Actually this is not at all crazy. It&#39;s a straight forward thought experiment, which I made years ago. The question is, how many other thought experiments are there out there that would point us to similarly disturbing conclusions?<a href="https://t.co/GwAufXnwKU">https://t.co/GwAufXnwKU</a> <a href="https://t.co/DZk3KxTKtb">https://t.co/DZk3KxTKtb</a></p>&mdash; Cathy O&#39;Neil (@mathbabedotorg) <a href="https://twitter.com/mathbabedotorg/status/1050004919716106240?ref_src=twsrc%5Etfw">October 10, 2018</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
 As with any seasonal “AI Gone Bad” news-story, it’s imperative to first bust some myths. The usual objection is typically of the following form: *“if graduates from women’s colleges really are less qualified, why should penalizing them count as discrimination?”*
