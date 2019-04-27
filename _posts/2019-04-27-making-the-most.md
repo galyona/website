@@ -4,7 +4,6 @@ title:  "Making the most of the Internet"
 author: "Gal"
 ---
 
-(This is a writeup of talk  of the same name I gave at the Weizmann Math & CS Women's Forum on March 26th, 2019.)
 
 As we all know, the internet is an incredible body of knowledge. To put things in perspective: today, anyone with internet access (be it in the US or in Malaysia) has -- at their fingertips -- access to a body of knowledge that even the most well-positioned scholar of a mere century ago couldn’t reach in a year. Yet, simultaneously, as we also know well, it is also home to the world’s largest collection of cat video compilations. I am by all means **not** taking the perspective that using the internet to educate yourself is *good* and for watching cat videos is *bad*. Therefore, a better title for this post would come with the following disclaimer: how to best “unlock” the amazing potential of the internet,  if -- and when -- you want to.
 
@@ -44,7 +43,7 @@ The problem with steps 1-3 is that with very high probability, whatever you trul
 The resolution, perhaps, is that we need a new definition of *knowledge*. What does it mean to know something in the 21st century? I like the definition suggested in the title of [this](https://prostheticknowledge.tumblr.com) blog.
 
 <center>
-<img src="imgs/posts/prosthetic.png" alt="">
+![prosthetic knowledge]({{ site.url }}/imgs/posts/prosthetic.png)
 </center>
 
 If you think about it, this is nothing new. In fact, software developers practice this type of knowledge literally all the time. For example, I never remember the exact syntax for saving and loading a Python pickle object, even though it's something I do very often. However, what I *do* remember is that if I type in Google the query "Python load pickle", then the fourth result is a Stack Overflow whose top answer has exactly the code-snippet that I need. Then, do I *know* how to load a Python pickle? The answer is of course (albeit under a slightly extended definition of knowledge). In fact, this is exactly what made Stack Overflow such a hugely popular website.
@@ -57,3 +56,5 @@ A natural question, then, is why stop at code-snippets? Under the "prosthetic kn
 </center>
 
 Honestly, this requires a level of organization that for me has (so far) proved difficult, but I find the idea itself incredibly compelling. Perhaps one day I will be there too.
+
+(Comment: This was a writeup of talk  of the same name I gave at the Weizmann Math & CS Women's Forum on March 26th, 2019.)
