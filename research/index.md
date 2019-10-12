@@ -5,6 +5,12 @@ permalink: /research/
 ---
 
 ### Manuscripts
+
+**Who's responsible? Jointly quantifying the contribution of the learning algorithm and training data**  
+Gal Yona, Amirata Ghorbani and James Zou. \\
+[[arxiv]](https://arxiv.org/abs/1910.04214){:target="_blank"}
+
+
 **Preference-Informed Fairness**  
 Michael P. Kim, Aleksandra Korolova, Guy N. Rothblum and Gal Yona. \\
 [[arxiv]](https://arxiv.org/abs/1904.01793){:target="_blank"}
@@ -12,6 +18,10 @@ Michael P. Kim, Aleksandra Korolova, Guy N. Rothblum and Gal Yona. \\
 
 
 ### Publications
+
+**Evidence-Based Rankings**  
+Cynthia Dwork, Michael P. Kim, Omer Reingold, Guy N. Rothblum and Gal Yona.  *FOCS 2019*.   \\
+
 
 **Probably Approximately Metric Fair Learning**  
 Guy N. Rothblum and Gal Yona.  *ICML 2018*.   \\
