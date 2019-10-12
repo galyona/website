@@ -20,7 +20,7 @@ Michael P. Kim, Aleksandra Korolova, Guy N. Rothblum and Gal Yona. \\
 ### Publications
 
 **Evidence-Based Rankings**  
-Cynthia Dwork, Michael P. Kim, Omer Reingold, Guy N. Rothblum and Gal Yona.  *FOCS 2019*.   \\
+Cynthia Dwork, Michael P. Kim, Omer Reingold, Guy N. Rothblum and Gal Yona.  *FOCS 2019*. 
 
 
 **Probably Approximately Metric Fair Learning**  
