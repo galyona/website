@@ -8,10 +8,16 @@ permalink: /research/
 
 ### Publications
 
+**Multi-group Agnostic PAC Learning**  
+Guy N. Rothblum and Gal Yona  
+*International Conference on Machine Learning (ICML) 2021*  \\
+[[paper]](http://arxiv.org/abs/2105.09989){:target="_blank"}
+
 **Who's responsible? Jointly quantifying the contribution of the learning algorithm and training data**  
 Gal Yona, Amirata Ghorbani and James Zou \\
 *Artificial Intelligence, Ethics and Society (AIES) 2021* \\
-[[paper]](https://arxiv.org/abs/1910.04214){:target="_blank"}
+[[paper]](https://arxiv.org/abs/1910.04214){:target="_blank"}  [[poster]]({{ site.baseurl }}{% link assets/files/aies-poster.pdf %})
+
 
 **Outcome Indistinguishability**  
 Cynthia Dwork, Michael P. Kim, Omer Reingold, Guy N. Rothblum and Gal Yona.  
