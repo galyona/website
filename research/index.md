@@ -5,13 +5,16 @@ permalink: /research/
 ---
 
 
+**Consider the Alternatives: Navigating Fairness-Accuracy Tradeoffs via Disqualification**  
+Guy N. Rothblum and Gal Yona  
+*ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO) 2021 (Poster)*  \\
+[[paper]](https://arxiv.org/abs/2110.00813){:target="_blank"}
 
-### Publications
 
 **Multi-group Agnostic PAC Learning**  
 Guy N. Rothblum and Gal Yona  
 *International Conference on Machine Learning (ICML) 2021*  \\
-[[paper]](http://arxiv.org/abs/2105.09989){:target="_blank"}
+[[paper]](http://arxiv.org/abs/2105.09989){:target="_blank"} [[video]](https://slideslive.com/38959615){:target="_blank"}
 
 **Who's responsible? Jointly quantifying the contribution of the learning algorithm and training data**  
 Gal Yona, Amirata Ghorbani and James Zou \\
