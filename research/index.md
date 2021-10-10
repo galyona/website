@@ -38,7 +38,7 @@ Noam Barda, Dan Riesel, Amichay Akriv, Joseph Levy, Uriah Finkel, Gal Yona, Dani
 [[paper]](https://www.nature.com/articles/s41467-020-18297-9){:target="_blank"}
 
 **Preference-Informed Fairness**  
-Michael P. Kim, Aleksandra Korolova, Guy N. Rothblum and Gal Yona
+Michael P. Kim, Aleksandra Korolova, Guy N. Rothblum and Gal Yona \\
 *Innovations in Theoretical Computer Science (ITCS) 2020* \\
 [[paper]](https://arxiv.org/abs/1904.01793){:target="_blank"}
 [[talk]](https://www.youtube.com/watch?v=zAR5VbkhKv4){:target="_blank"}
