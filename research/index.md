@@ -4,11 +4,23 @@ title: hello
 permalink: /research/
 ---
 
+**On Fairness and Stability in Two-Sided Matchings**  
+Gili Karni, Guy N. Rothblum and Gal Yona \\
+*Innovations in Theoretical Computer Science (ITCS) 2022* \\
+[[paper]](https://arxiv.org/abs/2111.10885){:target="_blank"}
+
+
+**Revisiting Sanity Checks for Saliency Maps**  
+Gal Yona and Daniel Greenfeld \\
+*Workshop on eXplainable AI approaches for debugging and diagnosis at Neurips 2021*  \\
+[[paper]](https://arxiv.org/abs/2110.14297){:target="_blank"} [[poster]]({{ site.baseurl }}{% link assets/files/xai_poster_png_v2.png %}){:target="_blank"}
+
+
 
 **Consider the Alternatives: Navigating Fairness-Accuracy Tradeoffs via Disqualification**  
 Guy N. Rothblum and Gal Yona  
 *ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO) 2021 (Poster)*  \\
-[[paper]](https://arxiv.org/abs/2110.00813){:target="_blank"}
+[[paper]](https://arxiv.org/abs/2110.00813){:target="_blank"} [[poster]]({{ site.baseurl }}{% link assets/files/eaamo_poster.pdf %}){:target="_blank"}
 
 
 **Multi-group Agnostic PAC Learning**  
