@@ -4,6 +4,17 @@ title: hello
 permalink: /research/
 ---
 
+**Decision-Making under Miscalibration**  
+Guy N. Rothblum and Gal Yona \\
+*preprint* \\
+[[paper]](https://arxiv.org/abs/2203.09852){:target="_blank"} [[video]](https://www.youtube.com/watch?v=GXnIwEr1its&ab_channel=SimonsInstitute){:target="_blank"} [[code]](https://github.com/galyona/decision-making-under-miscalibration){:target="_blank"}
+
+
+**Beyond Bernoulli: Generating Random Outcomes that cannot be Distinguished from Nature**  
+Cynthia Dwork, Michael P. Kim, Omer Reingold, Guy N. Rothblum and Gal Yona \\
+*Algorithmic Learning Theory (ALT) 2022* \\
+[[paper]](https://proceedings.mlr.press/v167/dwork22a/dwork22a.pdf){:target="_blank"}
+
 **On Fairness and Stability in Two-Sided Matchings**  
 Gili Karni, Guy N. Rothblum and Gal Yona \\
 *Innovations in Theoretical Computer Science (ITCS) 2022* \\
@@ -37,7 +48,7 @@ Gal Yona, Amirata Ghorbani and James Zou \\
 **Outcome Indistinguishability**  
 Cynthia Dwork, Michael P. Kim, Omer Reingold, Guy N. Rothblum and Gal Yona.  
 *Symposium on Theory of Computing (STOC) 2021* \\
-[[paper]](https://arxiv.org/abs/2011.13426){:target="_blank"}
+[[paper]](https://arxiv.org/abs/2011.13426){:target="_blank"} [[video]](https://www.youtube.com/watch?v=RPP_GD-YOos&ab_channel=InstituteforAdvancedStudy){:target="_blank"}
 
 **Addressing bias in prediction models by improving subpopulation calibration**  
 Noam Barda, Gal Yona, Guy N Rothblum, Philip Greenland, Morton Leibowitz, Ran Balicer, Eitan Bachmat and Noa Dagan
