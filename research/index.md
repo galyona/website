@@ -4,16 +4,16 @@ title: hello
 permalink: /research/
 ---
 
-**Active Learning with Label Comparisons**  
-Gal Yona, Shay Moran, Gal Elidan and Amir Globerson \\
-*preprint 2022* \\
-[[paper]](https://arxiv.org/abs/2204.04670){:target="_blank"}
-
 
 **Decision-Making under Miscalibration**  
 Guy N. Rothblum and Gal Yona \\
 *preprint 2022* \\
 [[paper]](https://arxiv.org/abs/2203.09852){:target="_blank"} [[video]](https://www.youtube.com/watch?v=GXnIwEr1its&ab_channel=SimonsInstitute){:target="_blank"} [[code]](https://github.com/galyona/decision-making-under-miscalibration){:target="_blank"}
+
+**Active Learning with Label Comparisons**  
+Gal Yona, Shay Moran, Gal Elidan and Amir Globerson \\
+*Uncertainty in Artificial Intelligence (UAI) 2022* \\
+[[paper]](https://openreview.net/pdf?id=S2zMhPUi5xq){:target="_blank"} [[poster]]({{ site.baseurl }}{% link assets/files/uai_poster.pdf %}){:target="_blank"}
 
 
 **Beyond Bernoulli: Generating Random Outcomes that cannot be Distinguished from Nature**  
