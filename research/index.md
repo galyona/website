@@ -10,6 +10,11 @@ Guy N. Rothblum and Gal Yona \\
 *preprint 2022* \\
 [[paper]](https://arxiv.org/abs/2203.09852){:target="_blank"} [[video]](https://www.youtube.com/watch?v=GXnIwEr1its&ab_channel=SimonsInstitute){:target="_blank"} [[code]](https://github.com/galyona/decision-making-under-miscalibration){:target="_blank"}
 
+**Useful Confidence Measures: Beyond the Max Score**  
+Gal Yona , Amir Feder and Itay Laish \\
+*Workshop on Distribution Shifts at Neurips 2022*  \\
+[[paper]](https://arxiv.org/abs/2210.14070){:target="_blank"}
+
 **Active Learning with Label Comparisons**  
 Gal Yona, Shay Moran, Gal Elidan and Amir Globerson \\
 *Uncertainty in Artificial Intelligence (UAI) 2022* \\
