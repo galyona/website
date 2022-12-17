@@ -4,14 +4,20 @@ title: hello
 permalink: /research/
 ---
 
+**Malign Overfitting: Interpolation Can Provably Preclude Invariance**  
+Yoav Wald, Gal Yona, Uri Shalit and Yair Carmon \\
+*preprint* \\
+[[paper]](https://arxiv.org/abs/2211.15724){:target="_blank"}
+
+
 
 **Decision-Making under Miscalibration**  
 Guy N. Rothblum and Gal Yona \\
-*preprint 2022* \\
+*Innovations in Theoretical Computer Science (ITCS) 2023* \\
 [[paper]](https://arxiv.org/abs/2203.09852){:target="_blank"} [[video]](https://www.youtube.com/watch?v=GXnIwEr1its&ab_channel=SimonsInstitute){:target="_blank"} [[code]](https://github.com/galyona/decision-making-under-miscalibration){:target="_blank"}
 
 **Useful Confidence Measures: Beyond the Max Score**  
-Gal Yona , Amir Feder and Itay Laish \\
+Gal Yona, Amir Feder and Itay Laish \\
 *Workshop on Distribution Shifts at Neurips 2022*  \\
 [[paper]](https://arxiv.org/abs/2210.14070){:target="_blank"}
 
