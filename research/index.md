@@ -6,7 +6,7 @@ permalink: /research/
 
 **Malign Overfitting: Interpolation Can Provably Preclude Invariance**  
 Yoav Wald, Gal Yona, Uri Shalit and Yair Carmon \\
-*preprint* \\
+*International Conference on Learning Representations (ICLR) 2023* \\
 [[paper]](https://arxiv.org/abs/2211.15724){:target="_blank"}
 
 
